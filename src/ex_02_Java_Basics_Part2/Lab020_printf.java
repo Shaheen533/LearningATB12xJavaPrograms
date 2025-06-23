@@ -1,4 +1,4 @@
-package ex_01_Java_Basics;
+package ex_02_Java_Basics_Part2;
 
 public class Lab020_printf {
     public static void main(String[] args) {
