@@ -6,11 +6,11 @@ public class Lab035_Operators_Modulus {
         int b =10;
         System.out.println(a%b);//-> Mod ->Remainder
 
-        // 10 /20 /2 -quotient
-        //    /20/
-        // -----------
-        //      0 -Remainder
-        // ----------
+//         10 /20 /2 -quotient
+//            /20/
+//         -----------
+//              0 -Remainder
+//         ----------
         System.out.println(13%7);
       /*  11%2 ->1, 13%2 ->1
                 10%2->0, 12%2-> 0
